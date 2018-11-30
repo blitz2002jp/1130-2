@@ -9,5 +9,10 @@ namespace _1130_2
     class Class2
     {
         // devブランチで追加したクラス
+
+        public void fun1()
+        {
+            // デスクトップで追加しためそっど
+        }
     }
 }
