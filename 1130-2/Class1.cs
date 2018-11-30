@@ -13,5 +13,9 @@ namespace _1130_2
         {
             Console.WriteLine("devブランチ");
         }
+        public void fun2()
+        {
+            Console.WriteLine("devブランチcommit2");
+        }
     }
 }
