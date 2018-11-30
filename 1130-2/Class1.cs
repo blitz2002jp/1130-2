@@ -8,5 +8,10 @@ namespace _1130_2
 {
     class Class1
     {
+
+        public void fun1()
+        {
+            Console.WriteLine("devブランチ");
+        }
     }
 }
